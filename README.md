@@ -25,7 +25,7 @@ It allows users to manage tasks efficiently with priority, due date, and search 
 ---
 
 ## ▶️ How to Run
-1. Clone the repository:
+1. Clone the repository:https://github.com/akif-ansari12/To-Do-App.git
 
 2. Navigate to folder: cd todo-app
  
